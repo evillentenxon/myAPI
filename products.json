@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Roman",
+        "price": "444",
+        "rating": "3.9"
+    },
+    {
+        "name": "Awan",
+        "price": "333",
+        "rating": "3.9"
+    },
+    {
+        "name": "Saksham",
+        "price": "555",
+        "rating": "3.9"
+    },
+    {
+        "name": "Pratyush",
+        "price": "666",
+        "rating": "3.9"
+    },
+    {
+        "name": "Pratima",
+        "price": "777",
+        "rating": "3.9"
+    },
+    {
+        "name": "Richa",
+        "price": "888",
+        "rating": "3.9"
+    }
+]
